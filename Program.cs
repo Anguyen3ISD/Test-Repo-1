@@ -6,6 +6,7 @@ class Program
     {
         Console.WriteLine("Hello, World!");
         Console.WriteLine("This is a .NET 8 Console/CL test project.");
-        Console.WriteLine("Test test test.");
+        Console.WriteLine("Test change 1.");
+        Console.WriteLine("Test change 2.");
     }
 }
